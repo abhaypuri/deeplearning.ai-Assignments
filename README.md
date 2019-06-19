@@ -7,11 +7,9 @@ This repository contains all the solutions of the programming assignments along 
 
 This specialisation has five courses.
 
-<li>
-  <ol> Course 1: <b> Neural Networks and Deep Learning </b> </ol>
+<li> Course 1: <b> Neural Networks and Deep Learning </b> </li>
 
-  <ol> Learning Objectives : </ol>
- </li>
+<li> Learning Objectives : </li>
 
   Understand the major technology trends driving Deep Learning
   Be able to build, train and apply fully connected deep neural networks
