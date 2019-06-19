@@ -11,6 +11,7 @@ This specialisation has five courses.
   <ol> Course 1: <b> Neural Networks and Deep Learning </b> </ol>
 
   <ol> Learning Objectives : </ol>
+ </li>
 
   Understand the major technology trends driving Deep Learning
   Be able to build, train and apply fully connected deep neural networks
